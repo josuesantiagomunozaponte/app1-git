@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
- xmlns:gat="http://phonegap.com/ns/1.0"
-  id ="con.phonegap.example1"
+ xmlns:gap="http://phonegap.com/ns/1.0"
+  id ="com.phonegap.example1"
   version ="1.0.0">
 
  <name>app1 DATOSALUMNOS</name>
@@ -21,7 +21,7 @@
  <preference name="orientation" value="landscape"/>-->
  <preference name="target-device" value="universal"/>
  <preference name="fullscreen" value="true"/>
- <preference name="android-installLocation" value="aunto"/>
+ <preference name="android-installLocation" value="auto"/>
  <preference name="permissions" value="INTERNET"/>
  
  <!-- Plugins-->
